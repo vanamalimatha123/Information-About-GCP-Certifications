@@ -1,4 +1,5 @@
-# Developing Applications with Google Cloud Platform Specialization
-
-- [Google Cloud Platform Fundamentals: Core Infrastructure](gcp_fundamentals_core_infrastructre/README.md)
-- [Getting Started With Application Development](getting_started_with_application_development/README.md)
+- [Introducing Google Cloud Platform](introduction.md)
+- [Best Practices for Application Development](best_practices_for_application_development.md)
+- [Cloud SDK, Cloud Client Libraries, & Firebase SDK](cloud_client_libraries_the_cloud_SDK_and_firebase_SDKs.md)
+- [Overview of Data Storage Options ](overview_of_data_storage_options.md)
+- [Best Practices for Using Datastore](best_practices_for_using_datastore.md)
